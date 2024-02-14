@@ -1,4 +1,4 @@
-# Placement-Cell.github.io
+# Doctor-Appointment-System
 
 ## Deployed Link 
 
