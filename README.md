@@ -16,9 +16,10 @@ User can fetch real job from search job page(using api for that).
 
 ## Preview
 
-## SignIn Page
+## this is the first page open on browser,if user is not logged in because authenticated user can only go to home page,if user is not registered then first click on the register link
 
-![Screenshot (34)](https://github.com/AdarshSingh933/Placement-Cell.github.io/assets/130076154/2e5da5fd-6f3c-4202-935e-6d57188c15fa)
+![image](https://github.com/AdarshSingh933/Prod-Doctor-Appointment-System/assets/130076154/ad9bf059-2a6d-464a-906a-2201a359a455)
+
 
 
 ## Placement Cell Home Page
