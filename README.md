@@ -18,23 +18,27 @@ User can fetch real job from search job page(using api for that).
 
 ## this is the first page open on browser,if user is not logged in because authenticated user can only go to home page,if user is not registered then first click on the register link
 
-![image](https://github.com/AdarshSingh933/Prod-Doctor-Appointment-System/assets/130076154/ad9bf059-2a6d-464a-906a-2201a359a455)
+![Screenshot (91)](https://github.com/AdarshSingh933/Prod-Doctor-Appointment-System/assets/130076154/f92dcedb-11fc-4e1a-b7ff-de53fddc327f)
 
 
 
-## Placement Cell Home Page
 
-![Screenshot (35)](https://github.com/AdarshSingh933/Placement-Cell.github.io/assets/130076154/0ed47d1e-5060-4e7c-916d-be95881c20f1)
+## Register Page
 
-
-## Adding Student 
-
-![Screenshot (36)](https://github.com/AdarshSingh933/Placement-Cell.github.io/assets/130076154/abd1a882-3fb6-4a84-8dc3-b582d01d9b0e)
+![Screenshot (92)](https://github.com/AdarshSingh933/Prod-Doctor-Appointment-System/assets/130076154/b8d463a7-aed1-4af3-a4ba-56913da3ba44)
 
 
-## Company List Page where all the allocated interview to student is showing
 
-![Screenshot (37)](https://github.com/AdarshSingh933/Placement-Cell.github.io/assets/130076154/0904b266-a128-4fed-bbe8-c46518b24643)
+## Login Page
+
+![Screenshot (93)](https://github.com/AdarshSingh933/Prod-Doctor-Appointment-System/assets/130076154/45121d4b-9fdd-4d42-ae10-6e3eb87d4b50)
+
+
+
+## Home Page
+
+![Screenshot (94)](https://github.com/AdarshSingh933/Prod-Doctor-Appointment-System/assets/130076154/8e4c193f-85b2-4696-9d16-e5c4485ff7db)
+
 
 
 ## Scheduling Interview 
