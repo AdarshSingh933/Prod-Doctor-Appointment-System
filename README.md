@@ -62,11 +62,18 @@ User can fetch real job from search job page(using api for that).
 
 
 
-## Downloaded CSv report of student data
+## User Profile Page
 
-![Screenshot (42)](https://github.com/AdarshSingh933/Placement-Cell.github.io/assets/130076154/ac78bab2-76c2-4e3e-b7f7-4015e0f97f10)
+![Uploading Screenshot (98).png…]()
 
 
+
+## Home Page for Doctor
+
+![Uploading Screenshot (99).png…]()
+
+
+## Home Page for Doctor
 
 
 
