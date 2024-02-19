@@ -41,19 +41,25 @@ User can fetch real job from search job page(using api for that).
 
 
 
-## Scheduling Interview 
+## when user click on the particular doctor in home page then that doctor appointment booking page will be open.
+## Booking Page
 
-![Screenshot (38)](https://github.com/AdarshSingh933/Placement-Cell.github.io/assets/130076154/5f429e30-322f-4fec-9799-c77bc694df0b)
-
-
-## Search Job Page
-
-![Screenshot (40)](https://github.com/AdarshSingh933/Placement-Cell.github.io/assets/130076154/cc971305-5087-4b54-97cf-0919a21b022c)
+![Screenshot (95)](https://github.com/AdarshSingh933/Prod-Doctor-Appointment-System/assets/130076154/b3659622-d79f-4157-be6d-d19f72be3b08)
 
 
-## Job Lists
 
-![Screenshot (41)](https://github.com/AdarshSingh933/Placement-Cell.github.io/assets/130076154/2ef324ce-5b47-4221-82bc-78ba889a8a8c)
+## Once the doctor appointment booked successfully then user can check status of that appointment wheather it is approved or not.
+## Appointment Page
+
+![Screenshot (96)](https://github.com/AdarshSingh933/Prod-Doctor-Appointment-System/assets/130076154/9b297e34-c15e-4385-a97f-1e2e8a7ea01c)
+
+
+
+## If user is doctor want to add in doctor list then can apply for doctor from Apply-doctor page.
+## Apply Doctor Page
+
+![Screenshot (97)](https://github.com/AdarshSingh933/Prod-Doctor-Appointment-System/assets/130076154/673fe50c-d9f4-4f11-9062-72c8c139a2ab)
+
 
 
 ## Downloaded CSv report of student data
