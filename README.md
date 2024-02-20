@@ -14,25 +14,41 @@ https://doctor-appointment-system-2qn8.onrender.com
 This is a comprehensive Doctor Appointment System built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides streamlined booking functionality, availability checks, and doctor profile management for a seamless experience in scheduling medical appointments.
 
 ## Key Features:
+
 Doctor Application: Doctors can apply to join the system, providing necessary details for approval.
+
 Appointment Booking: Users can easily book appointments with available doctors based on their schedules.
+
 Admin Controls: Administrators have full control over the system, managing doctors, appointments, and user accounts.
+
 Notification Systems: Users receive notifications for appointment confirmations, reminders, and updates.
+
 Responsive Frontend: The frontend is designed to be responsive, ensuring a consistent experience across devices.
 
 ## Technologies Used:
-# MongoDB: NoSQL database used to store doctor, appointment, and user data.
-# Express.js: Web application framework for building robust backend APIs.
-# React.js: Frontend library for building dynamic and interactive user interfaces.
-# Node.js: Server-side JavaScript runtime environment for running the backend server.
+
+ MongoDB: NoSQL database used to store doctor, appointment, and user data.
+ 
+ Express.js: Web application framework for building robust backend APIs.
+ 
+ React.js: Frontend library for building dynamic and interactive user interfaces.
+ 
+ Node.js: Server-side JavaScript runtime environment for running the backend server.
 
 ## How to Use:
+
 Clone the repository to your local machine.
+
 Install dependencies using npm install.
+
 Set up MongoDB database and configure the connection in the backend.
+
 Run the backend server using npm run server in the server directory.
+
 Run the frontend development server using npm start in the client directory.
+
 Run the frontend development and backend server using npm run dev in the main project directory.
+
 Access the application in your browser at http://localhost:3000.
 
 ## Contributors:
